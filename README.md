@@ -52,7 +52,7 @@ Polishing options:
 Other options:
   -n , --reads_number   min number of reads to be used for round 1 assembly [auto]
   -R , --max_rounds     max number of extending rounds for assembly [10]
-  -t , --threads        number of CPU threads to use [1]
+  -t , --threads        number of threads [1]
   -h, --help            show this help message and exit
   --version             print version
 ```
