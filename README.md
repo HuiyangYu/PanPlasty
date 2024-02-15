@@ -21,7 +21,7 @@ Input/Output options:
   -r , --fx_r           single-end fasta/q file
   -s , --name           sample name 
   -o , --out            output directory 
-  -x , --tax            organelle type of you want to assemble:
+  -x , --tax            organelle type to assemble:
                         Animals mitochondrial (am)
                         Fungi mitochondrial (fm)
                         Plants chloroplast (pc)
